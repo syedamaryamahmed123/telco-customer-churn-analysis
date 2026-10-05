@@ -1,5 +1,15 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-venv/
-.env
 *.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Power BI temporary files
+*.pbi-tools/
