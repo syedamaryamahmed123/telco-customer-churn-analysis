@@ -669,11 +669,21 @@ Telco-Customer-Churn-Analytics/
 │   └── Telco_Customer_Churn_Analytics.pbix
 │
 ├── images/
-│   ├── page1_executive_overview.png
-│   ├── page2_customer_analysis.png
-│   ├── page3_churn_analysis.png
-│   └── page4_revenue_risk.png
-│
+│   ├── churn_distribution.png
+│   ├── churn_rate_by_contract.png
+│   ├── churn_rate_by_internet_service.png
+│   ├── churn_rate_by_monthly_charges.png
+│   ├── churn_rate_by_payment_method.png
+│   ├── churn_rate_by_tenure.png
+│   ├── contract_internet_churn_heatmap.png
+│   ├── contract_tenure_churn_heatmap.png
+│   ├── correlation_matrix.png
+│   ├── monthly_charges_by_churn.png
+│   ├── page_01_executive_overview.png
+│   ├── page_02_customer_analysis.png
+│   ├── page_03_churn_analysis.png
+│   ├── page_04_revenue_risk.png
+│   ├── tenure_by_churn.png
 ├── reports/
 │   ├── telco_churn_insights.csv
 │   └── telco_churn_kpis.csv
