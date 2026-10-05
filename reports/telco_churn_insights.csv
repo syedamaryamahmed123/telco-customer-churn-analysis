@@ -1,0 +1,9 @@
+Area,Finding
+Overall Churn,Overall churn rate is 26.54%.
+Contract,Month-to-month has the highest observed churn rate among contract types (42.71%).
+Tenure,0-12 Months has the highest observed churn rate among tenure groups (47.44%).
+Monthly Charges,$60-$89 has the highest observed churn rate among charge groups (33.74%).
+Internet Service,Fiber optic has the highest observed churn rate among internet-service categories (41.89%).
+Payment Method,Churn rates vary across payment-method categories.
+Early Tenure,Customers with 0-12 months of tenure have an observed churn rate of 47.44%.
+Priority Segment,"The selected month-to-month, high-charge, early-tenure segment has an observed churn rate of 75.80%."
